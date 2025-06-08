@@ -15,7 +15,7 @@ This repository focuses on mastering algorithmic problem-solving in Java. Each i
 - Real-world applications and practical examples
 
 ## 🔥 Recent Updates
-- **2025-06-08** - [Dynamic Programming Masterclass](src/main/java/2025-06-08) - Classic DP problems with multiple solution approaches *(Hard)*
+- **2025-06-08** - [Advanced Binary Search Variations](src/main/java/2025-06-08) - Multiple binary search implementations for different scenarios *(Medium)*
 - **Daily Updates**: Consistent implementation practice
 - **Code Quality**: Production-ready implementations
 - **Documentation**: Comprehensive explanations and examples
