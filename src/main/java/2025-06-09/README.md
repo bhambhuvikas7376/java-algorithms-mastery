@@ -1,12 +1,12 @@
-# Dynamic Programming Masterclass
+# Advanced Binary Search Variations
 
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
-[![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red?style=flat)](#)
+[![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat)](#)
 [![Date](https://img.shields.io/badge/Date-2025-06-09-blue?style=flat)](#)
 
 ## 📖 Overview
 
-Classic DP problems with multiple solution approaches
+Multiple binary search implementations for different scenarios
 
 This implementation demonstrates advanced algorithmic thinking and optimization strategies with production-ready code quality and comprehensive documentation.
 
@@ -37,16 +37,16 @@ This implementation demonstrates advanced algorithmic thinking and optimization 
 ### Quick Start
 ```bash
 # Compile
-javac DynamicProgramming.java
+javac BinarySearchAdvanced.java
 
 # Run
-java DynamicProgramming
+java BinarySearchAdvanced
 ```
 
 ### With Testing
 ```bash
 # Compile test
-javac -cp .:junit-platform-console-standalone.jar DynamicProgrammingTest.java
+javac -cp .:junit-platform-console-standalone.jar BinarySearchAdvancedTest.java
 
 # Run tests
 java -cp .:junit-platform-console-standalone.jar org.junit.platform.console.ConsoleLauncher --scan-classpath
